@@ -1,0 +1,537 @@
+[
+  {
+    "id": "1",
+    "istilah": "Logik",
+    "definisi": "Ilmu tentang cara berfikir; Ilmu yang membolehkan pemikiran dan penaakulan dibuat secara teratur dan bersistem."
+  },
+  {
+    "id": "2",
+    "istilah": "Al-Qiyas",
+    "definisi": "Silogisme: Kaedah logik yang dibuat berdasarkan premis umum dan khusus untuk mendapatkan sesuatu kesimpulan."
+  },
+  {
+    "id": "3",
+    "istilah": "Al-Tasdiqat",
+    "definisi": "Pengetahuan tentang hubungan (hubungan hukum) antara sesuatu dengan sesuatu yang lain hasil dari gabungan antara subjek dan predikat yang membentuk sesuatu preposisi. Contohnya Alam ini baharu."
+  },
+  {
+    "id": "4",
+    "istilah": "Induktif",
+    "definisi": "Satu pernyataan khusus yang dibentuk hasil daripada beberapa set andaian umum."
+  },
+  {
+    "id": "5",
+    "istilah": "Deduktif",
+    "definisi": "Beberapa set andaian umum yang menghasilkan satu penyataan khusus."
+  },
+  {
+    "id": "6",
+    "istilah": "Tasawur",
+    "definisi": "Pandangan, gambaran atau persepsi tentang sesuatu."
+  },
+  {
+    "id": "7",
+    "istilah": "Retorik",
+    "definisi": "Seni menggunakan bahasa yang indah dan menarik untuk memujuk atau mempengaruhi pemikiran pendengar."
+  },
+  {
+    "id": "8",
+    "istilah": "Premis",
+    "definisi": "Sesuatu pernyataan yang dianggap sebagai sesuatu yang benar untuk tujuan membuat huraian yang membawa kepada sesuatu kesimpulan."
+  },
+  {
+    "id": "9",
+    "istilah": "Falasi",
+    "definisi": "Suatu hujah yang lemah dan tidak boleh diterima."
+  },
+  {
+    "id": "10",
+    "istilah": "Taasub",
+    "definisi": "Fanatik; pegangan atau keyakinan yang keterlaluan terhadap sesuatu atau seseorang."
+  },
+  {
+    "id": "11",
+    "istilah": "Dekolonisasi",
+    "definisi": "Berlawanan dengan kolonisasi;  usaha dan proses penyahjajahan daripada pengaruh dan penaklukan yang telah berlaku."
+  },
+  {
+    "id": "12",
+    "istilah": "Antroposentrisme",
+    "definisi": "Pandangan yang menganggap manusia sebagai faktor yang paling penting dalam alam semesta."
+  },
+  {
+    "id": "13",
+    "istilah": "Dogma",
+    "definisi": "Kepercayaan atau sistem kepercayaan yang dianggap benar dan seharusnya dapat diterima oleh orang ramai tanpa sebarang pertikaian."
+  },
+  {
+    "id": "14",
+    "istilah": "Eksploitasi",
+    "definisi": "Tindakan mengambil kesempatan untuk mempergunakan seseorang atau sesuatu keadaan secara tidak adil demi kepentingan atau keuntungan sendiri."
+  },
+  {
+    "id": "15",
+    "istilah": "Kolonialisme",
+    "definisi": "Dasar atau amalan oleh sesebuah negara meluaskan penguasaannya ke atas sesebuah negara lain (penjajahan)."
+  },
+  {
+    "id": "16",
+    "istilah": "Spiritual",
+    "definisi": "Rohaniah; bersifat rohani atau jiwa."
+  },
+  {
+    "id": "17",
+    "istilah": "Tradisional",
+    "definisi": "Bersifat tradisi;sesuatu kebiasaan yang kekal turun-temurun  atau sesuatu yang sudah menjadi amalan yang sudah sebati dengan sesuatu golongan."
+  },
+  {
+    "id": "18",
+    "istilah": "Cendekiawan",
+    "definisi": "Golongan intelektual."
+  },
+  {
+    "id": "19",
+    "istilah": "Ekologikal",
+    "definisi": "Berkait dengan ekologi; hubungan antara tumbuhan, haiwan dan manusia dengan persekitaran."
+  },
+  {
+    "id": "20",
+    "istilah": "Islamisasi",
+    "definisi": "Proses pengislaman atau proses untuk kembali kepadaa penghayatan agama berdasarkan kerangka pandangan alam Islam yang sebenar."
+  },
+  {
+    "id": "21",
+    "istilah": "Pascakolonial",
+    "definisi": "Era selepas penjajahan kolonial."
+  },
+  {
+    "id": "22",
+    "istilah": "Eurosentrik",
+    "definisi": "Kecenderungan menganggap bahawa tokoh, pemikiran atau budaya yang bersumberkan Eropah atau Barat lebih baik drp yg lain."
+  },
+  {
+    "id": "23",
+    "istilah": "Hikmah",
+    "definisi": "Kebijaksanaan yang dianugerahkan Allah; kecerdikan. Rahsia, kelebihan atau tujuan sebenar di sebalik sesuatu perkara (hal, kejadian dsb)"
+  },
+  {
+    "id": "24",
+    "istilah": "Aliran Falsafah Teoretikal (Nazariyyat)",
+    "definisi": "Aliran falsafah yang mengkaji ilmu berkait dengan kewujudan; bertujuan mencari kebenaran. Perbincangan mengenai Tuhan, manusia, alam yang mencakupi bidang metafizik, logik dan matematik."
+  },
+  {
+    "id": "25",
+    "istilah": "Falsafah Praktikal (Amaliyyat)",
+    "definisi": "Aliran falsafah yang mengkaji falsafah yang bersifat amali; menghayati ilmu-ilmu mengenai Tuhan, manusia dan alam dalam segenap lapangan kehidupan manusia, khususnya bidang  politik, ekonomi dan akhlak."
+  },
+  {
+    "id": "26",
+    "istilah": "Worldview",
+    "definisi": "Pandangan alam, sudut pandang atau falsafah hidup dalam menanggapi alam semesta. Perspektif keseluruhan dalam melihat dan mentafsir kehidupan sekelilingnya. Ia juga merujuk kepada bagaimana seseorang melihat dan memahami alam dan kehidupan."
+  },
+  {
+    "id": "27",
+    "istilah": "Tawhidic Worldview",
+    "definisi": "Pandangan alam terhadap makna dan tujuan kehidupan berpaksikan prinsip dan nilai tauhid, syariah dan akhlak."
+  },
+  {
+    "id": "28",
+    "istilah": "Ontologi",
+    "definisi": "Cabang ilmu falsafah atau metafizik yang membincangkan tentang kewujudan, termasuklah ilmu tentang Tuhan, alam dan manusia."
+  },
+  {
+    "id": "29",
+    "istilah": "Metafizik",
+    "definisi": "Falsafah atau ilmu pengetahuan mengenai segala yang di luar alam biasa atau yang tidak kelihatan, maakulat. Mengkaji sesuatu yang tidak wujud secara fizikal seperti kewujudan Tuhan, perkara yang paling asas. Ia juga membahaskan adakah sesuatu perkara itu wujud secara fizikal dan adakah setiap sesuatu yang terjadi mempunyai alasan."
+  },
+  {
+    "id": "30",
+    "istilah": "Kosmologi",
+    "definisi": "Salah satu bidang falsafah yang mengkaji asal usul, proses dan struktur alam semesta. Penyelidikan  tentang  alam  semesta  dan  perkara  yang  berkaitan  dengannya."
+  },
+  {
+    "id": "31",
+    "istilah": "Ilmu Kemanusiaan",
+    "definisi": "Ilmu yang mengkaji mengenai manusia dalam interaksinya dengan persekitaran. Dalam istilah lain ilmu ini juga dikenali sebagai sosiologi atau sains kemasyarakatan."
+  },
+  {
+    "id": "32",
+    "istilah": "Epistemologi",
+    "definisi": "Teori tentang pengetahuan, terutamanya yang berkaitan dengan kajian kritis tentang kesahihan, kaedah dan skop sesuatu pengetahuan. Disiplin ilmu yang melibatkan perbahasan tentang akal, pengelasan ilmu, pengkhususannya dan ruang lingkup keterbatasan akal bagi menanganinya."
+  },
+  {
+    "id": "33",
+    "istilah": "Aksiologi",
+    "definisi": "Disiplin ilmu tentang etika, akhlak dan nilai dengan menentukan sesuatu tindakan tersebut betul berdasarkan pertimbangan nilai atau kebaikannya."
+  },
+  {
+    "id": "34",
+    "istilah": "Logik",
+    "definisi": "Sains yang berkaitan dengan prinsip yang membolehkan pemikiran dan penaakulan dibuat secara teratur dan bersistem. Ilmu tentang cara berfikir (atau kaedah berfikir), ilmu mantik, sesuatu yang dapat diterima akal. Bidang kajian falsafah mengenai fikiran dan hujah yang betul dan salah."
+  },
+  {
+    "id": "35",
+    "istilah": "Etika",
+    "definisi": "Ilmu berkenaan prinsip akhlak atau moral. Prinsip moral atau akhlak atau nilai-nilai akhlak yang menjadi pegangan seseorang individu atau sesuatu kumpulan. Prinsip moral (atau akhlak) atau nilai-nilai akhlak yang menjadi pegangan seseorang individu atau sesuatu kumpulan. Suatu disiplin ilmu yang mengkaji sistem moral dan tingkah laku manusia dalam hidup mereka melalui pemahaman falsafah."
+  },
+  {
+    "id": "36",
+    "istilah": "Estetika",
+    "definisi": "Cabang falsafah yang mengkaji konsep yang berkaitan dengan keindahan, cita rasa dan lain-lain."
+  },
+  {
+    "id": "37",
+    "istilah": "Taakul",
+    "definisi": "Membuat pertimbangan dan penilaian dengan mengggunakan akal, tinjauan akal , menaakul membuat pertimbangan dll dengan logik."
+  },
+  {
+    "id": "38",
+    "istilah": "Tadhakkur",
+    "definisi": "Pengulangan dalam  hati  tentang apa  yang  telah  diketahui  untuk  lebih  menguatkan  dan  memantapkannya  sehingga tidak lenyap atau terhapus dari hatinya;  berzikir dengan  menyebut  nama-nama  Allah  SWT  dan seumpamanya."
+  },
+  {
+    "id": "39",
+    "istilah": "Tafakur/Tafakkur",
+    "definisi": "Renungan, perenungan. Perihal merenung memikirkan sesuatu. Pengheningan cipta, bertafakur; bermenung memikirkan sesuatu dengan sungguh-sungguh. Proses berfikir  dengan  menganalisis  tanda-tanda kawniyyah yang  wujud  pada  alam  semesta  dan kemukjizatan  ayat-ayat  al-Quran."
+  },
+  {
+    "id": "40",
+    "istilah": "Tadabbur",
+    "definisi": "Pembacaan al-Quran secara tartil    dan    berhati-hati,    sambil cuba  memahamkan    makna-maknanya,   berfikir tentangnya,  dan  mengambil  pelajaran  daripadanya."
+  },
+  {
+    "id": "41",
+    "istilah": "Entiti",
+    "definisi": "Sesuatu yang mempunyai kewujudannya yang tersendiri."
+  },
+  {
+    "id": "42",
+    "istilah": "Khalifah",
+    "definisi": "Setiap insan yang diamanahkan atau dipertanggungjawabkan oleh Allah untuk mengurus dan mentadbir dunia mengikut syariat Allah."
+  },
+  {
+    "id": "43",
+    "istilah": "Evolusi",
+    "definisi": "Perubahan secara beransur-ansur pada haiwan atau tumbuhan, daripada satu generasi kepada generasi yang lain. Perkembangang secara beransur-ansur, terutamanya pada bentuk yang lebih kompleks."
+  },
+  {
+    "id": "44",
+    "istilah": "Hipotesis",
+    "definisi": "Sesuatu pendapat yang dianggap benar sebagai alasan walaupun kebenarannya masih belum dibuktikan."
+  },
+  {
+    "id": "45",
+    "istilah": "Kromosom",
+    "definisi": "Jasad yang membawa gen yang mengandungi DNA dan protein dan terdapat pada nucleus set."
+  },
+  {
+    "id": "46",
+    "istilah": "Teori",
+    "definisi": "Pendapat bersifat pandangan yang tidak dapat dibuktikan dengan kukuh yang dikemukakan untuk menerangkan sesuatu perkara. Prinsip-prinsip am atau asas-asas kasar yang menjadi dasar pembentukan (perkembangan) sesuatu pengetahuan."
+  },
+  {
+    "id": "47",
+    "istilah": "Homo sapiens",
+    "definisi": "Istilah sains bagi manusia moden yang dikatakan berasal daripada hominin genus 'Homo'."
+  },
+  {
+    "id": "48",
+    "istilah": "Autonomi",
+    "definisi": "Pemerintahan yang melibatkan pentadbiran dan pengurusan sendiri, hak mengurus pentadbiran sendiri tanpa penguasaan atau pengendalian oleh pihak lain. Mempunyai hak atau kuasa sendiri."
+  },
+  {
+    "id": "49",
+    "istilah": "Positivisme",
+    "definisi": "Aliran falsafah yang menganggap bahawa ilmu pengetahuan itu semata-mata berdasarkan pengalaman dan ilmu yang pasti."
+  },
+  {
+    "id": "50",
+    "istilah": "Empirisisme",
+    "definisi": "Doktrin bahawa pengalaman praktis bukan teori adalah asas pengetahuan."
+  },
+  {
+    "id": "51",
+    "istilah": "Natural",
+    "definisi": "Bersifat semulajadi, alamiah."
+  },
+  {
+    "id": "52",
+    "istilah": "'Ujub",
+    "definisi": "Kagum terhadap diri sendiri. Angkuh, bongkak, ego."
+  },
+  {
+    "id": "53",
+    "istilah": "Mandiri",
+    "definisi": "Dapat berdiri sendiri."
+  },
+  {
+    "id": "54",
+    "istilah": "Patriotisme",
+    "definisi": "Perasaan cinta yang kuat terhadap tanah air."
+  },
+  {
+    "id": "55",
+    "istilah": "Empirikal",
+    "definisi": "Berdasarkan pemerhatian atau eksperimen, bukan teori, kaedah yang digunakan adalah melalui kajian-kajian serta pengumpulan data."
+  },
+  {
+    "id": "56",
+    "istilah": "Metafizik",
+    "definisi": "Perkara di sebalik alam fizikal yang menjangkau pancaindera serta bersifat abstrak; satu bidang kajian mengenai sesuatu perkara atau fenomena yang melampaui alam nyata."
+  },
+  {
+    "id": "57",
+    "istilah": "Materialisme",
+    "definisi": "Aliran yang meyakini bahawa objek alam adalah sesuatu perkara yang bersifat material dan nyata. Fahaman yang mempercayai bahwa hanya bendalah yang menyebabkan terjadinya segala sesuatu."
+  },
+  {
+    "id": "58",
+    "istilah": "Idealisme",
+    "definisi": "Aliran yang menegaskan kepentingan fikiran, jiwa dan kerohanian dan meyakini kewujudan alam jagat bersifat idea ataupun kerohanian.  Aliran yang mencita-citakan sesuatu dalam bentuk yang ideal atau unggul (sempurna)."
+  },
+  {
+    "id": "59",
+    "istilah": "Teisme",
+    "definisi": "Kepercayaan kepada satu Tuhan sebagai Pencipta dan Pemerintah alam semesta.  Tuhan adalah penyebab dan sebab terhadap semua kejadian di alam jagat."
+  },
+  {
+    "id": "60",
+    "istilah": "Monoteisme",
+    "definisi": "Aliran yang meyakini hanya Satu Tuhan Yang Wujud"
+  },
+  {
+    "id": "61",
+    "istilah": "Politeisme",
+    "definisi": "Aliran yang mempercayai kewujudan lebih dari satu Tuhan."
+  },
+  {
+    "id": "62",
+    "istilah": "Ateisme",
+    "definisi": "Aliran yang tidak mempercayai kewujudan Tuhan atau tuhan-tuhan."
+  },
+  {
+    "id": "63",
+    "istilah": "Agnostisisme",
+    "definisi": "Aliran yang mempercayai bahawa manusia tidak boleh memastikan tentang kewujudan Tuhan kerana keterbatasan akal dan pancaindera manusia."
+  },
+  {
+    "id": "64",
+    "istilah": "Panteisme",
+    "definisi": "Aliran yang meyakini Tuhan memiliki identiti yang sama dengan alam. Kepercayaan bahawa Tuhan itu berada di mana-mana dalam alam dan cakerawala."
+  },
+  {
+    "id": "65",
+    "istilah": "Mekanisme",
+    "definisi": "Aliran yang meyakini bahawa segala yang wujud dan berlaku di dunia ini adalah mengikut hukum sebab dan akibat."
+  },
+  {
+    "id": "66",
+    "istilah": "Determinisme",
+    "definisi": "Aliran yang meyakini segala kejadian dan fenomena yang berlaku (termasuk perbuatan manusia) telah ditentukan oleh hukum alam atau sebab akibat yang terjadi sebelumnya; dan manusia tidak mempunyai kebebasan dan kemampuan untuk bertindak."
+  },
+  {
+    "id": "67",
+    "istilah": "Realisme",
+    "definisi": "Aliran yang berpandangan bahawa kebenaran tertakluk kepada sesuatu yang jelas dan nyata tetapi bukan kepada sesuatu yang ghaib dan abstrak (bukan khayalan)."
+  },
+  {
+    "id": "68",
+    "istilah": "Saintisme",
+    "definisi": "Aliran yang mementingkan pembuktian empirikal atau hasil penelitian pancaindera manusia. "
+  },
+  {
+    "id": "69",
+    "istilah": "Positivisme",
+    "definisi": "Aliran yang berpegang kepada eksperimen atau pengalaman sebagai  asas pengetahuan dan susunan logik dilakukan dalam realiti fizikal dan pembentukan teori adalah hasil dari yang disimpulkan dari eksperimen atau ujikaji (berlawanan dengan metafizik)."
+  },
+  {
+    "id": "70",
+    "istilah": "Dualisme",
+    "definisi": "Aliran yang memisahkan benda atau jasad daripada roh dan menjadikannya dua hakikat yang saling bertentangan; contohnya teori vs praktis; dunia vs akhirat; agama vs sains."
+  },
+  {
+    "id": "71",
+    "istilah": "Vitalisme",
+    "definisi": "Aliran yang menyatakan setiap organisme hidup memiliki daya kehidupan yang  bukan disebabkan oleh faktor fizikal atau kimia.  Konsep tenaga atau 'energy' yang menyokong sesuatu kehidupan."
+  },
+  {
+    "id": "72",
+    "istilah": "Occasionalisme",
+    "definisi": "Aliran yang meyakini bahawa Tuhan adalah penyebab utama semua kejadian yang berlaku dalam realiti. Faham yang mempercayai bahawa interaksi di antara jasad fizikal dan minda (mind and body) dikendalikan oleh Tuhan. Satu-satunya penyebab segala kewujudan adalah Tuhan."
+  },
+  {
+    "id": "73",
+    "istilah": "Epistemologi",
+    "definisi": "Bidang yang membicarakan hakikat, makna, kandungan, sumber dan proses mendapatkan ilmu."
+  },
+  {
+    "id": "74",
+    "istilah": "Ilmu",
+    "definisi": "Pengetahuan mengenai sesuatu bidang yang disusun secara bersistem menurut kaedah dan metod tertentu. Kajian berkenaan sesuatu perkara. Sampainya diri kepada makna, dan hadirnya makna dalam diri seseorang."
+  },
+  {
+    "id": "75",
+    "istilah": "Zan",
+    "definisi": "Kepercayaan berdasarkan kecenderungan kepada satu pandangan atau pendapat yang rajih atau tepat, tetapi masih tidak menolak sepenuhnya pandangan lain yang berbeza dengan pendapat yang rajih tadi."
+  },
+  {
+    "id": "76",
+    "istilah": "Syak",
+    "definisi": "Keadaan hati seseorang yang was-was antara menerima atau menolak sesuatu  maklumat."
+  },
+  {
+    "id": "77",
+    "istilah": "Waham",
+    "definisi": "Kecenderungan untuk menolak atau tidak mempercayai sesuatu pengetahuan yang sampai kepadanya tetapi mempunyai sedikit ruang kepercayaan terhadap perkara tersebut. Waswas, sangkaan yang samar-samar (jauh daripada yakin)."
+  },
+  {
+    "id": "78",
+    "istilah": "Jahil basit",
+    "definisi": "Seseorang yang tidak mengetahui atau jahil tetapi sedar akan kejahilannya."
+  },
+  {
+    "id": "79",
+    "istilah": "Jahil murakkab",
+    "definisi": "Seorang yang tidak mengetahui atau jahil tetapi tidak menyedari akan kejahilannya."
+  },
+  {
+    "id": "80",
+    "istilah": "Empirisisme",
+    "definisi": "Aliran yang berpegang kepada pancaindera atau pengalaman sebagai asas pengetahuan manusia."
+  },
+  {
+    "id": "81",
+    "istilah": "Rasionalisme",
+    "definisi": "Aliran yang meyakini bahawa akal atau taakulan adalah sumber utama ilmu pengetahuan."
+  },
+  {
+    "id": "82",
+    "istilah": "Wahyu",
+    "definisi": "Firman (Kalam) Allah yang disampaikan kepada nabi dan rasul-Nya, yang disampaikan melalui malaikat (Jibril) ataupun tanpa melalui-Nya. Pemberitahuan secara rahsia yang mengandungi  pengetahuan yang datang daripada Allah SWT sama ada melalui perantaraan atau secara langsung (Mohd Zaidi 2009)."
+  },
+  {
+    "id": "83",
+    "istilah": "Epistemologi Bayāni",
+    "definisi": "Epistemologi yang berpandangan bahwa sumber ilmu adalah teks (nas) atau kefahaman dari teks."
+  },
+  {
+    "id": "84",
+    "istilah": "Epistemologi Irfāni",
+    "definisi": "Epistemologi yang berpandangan bahwa sumber ilmu pengetahuan adalah ilham."
+  },
+  {
+    "id": "85",
+    "istilah": "Epistemologi Burhāni",
+    "definisi": "Epistemologi yang berpandangan bahwa sumber pengetahuan adalah akal."
+  },
+  {
+    "id": "86",
+    "istilah": "Ilmu fardu ain",
+    "definisi": "Ilmu pengetahuan yang bersumberkan wahyu dan dituntut mempelajarinya, wajib ke atas setiap individu muslim (fardu bagi orang perseorangan)."
+  },
+  {
+    "id": "87",
+    "istilah": "Ilmu fardu kifayah",
+    "definisi": "Ilmu pengetahuan yang dituntut  mempelajarinya, wajib ke atas masyarakat muslim; memadai sekiranya ia dilakukan oleh beberapa individu atau sekelompok daripada ahli masyarakat tersebut. "
+  },
+  {
+    "id": "88",
+    "istilah": "Teori kebenaran berdasarkan keselarasan atau (correspondence theory of truth)",
+    "definisi": "Teori yang berpegang kepada sesuatu pernyataan adalah benar apabila pernyataan tersebut selaras dengan fakta yang objektif. "
+  },
+  {
+    "id": "89",
+    "istilah": "Teori kebenaran berdasarkan keserasian  atau (coherence theory of truth)",
+    "definisi": "Teori yang berpegang kepada sesuatu pernyataan dianggap benar apabila pernyataan tersebut koheren atau tidak bertentangan dengan pernyataan sebelumnya yang sudah terbukti benar (Hashim Musa 2001)."
+  },
+  {
+    "id": "90",
+    "istilah": "Teori kebenaran berdasarkan kegunaan (pragmatik) atau (functional theory of truth)",
+    "definisi": "Teori yang berpegang bahawa sesuatu pernyataan dianggap sebagai benar apabila pernyataan tersebut membawa manfaat dalam menyelesaikan masalah manusia."
+  },
+  {
+    "id": "91",
+    "istilah": "Antroposentrisme",
+    "definisi": "Pandangan yang menganggap manusia sebagai faktor yang paling penting dalam alam semesta."
+  },
+  {
+    "id": "92",
+    "istilah": "Dualisme",
+    "definisi": "1. Faham yang berasaskan dua prinsip (hakikat) yang saling bertentangan seperti  kebaikan dan kejahatan; antara terang dan gelap [dunia dan akhirat; teori dan praktis dll]\n2. Keadaan apabila wujud dua sifat yang ketara saling bertentangan pada diri seseorang."
+  },
+  {
+    "id": "93",
+    "istilah": "Egosentik",
+    "definisi": "Bersifat mementingkan keperluan sendiri sahaja (tanpa mengendahkan keperluan orang lain)."
+  },
+  {
+    "id": "94",
+    "istilah": "Globalisasi",
+    "definisi": "Proses yang membolehkan sesuatu aktiviti (ekonomi, kebudayaan dsb) disebarkan atau diperluas ke peringkat antarabangsa atau ke seluruh dunia, terutamanya dengan adanya kemudahan sistem komunikasi, dasar terbuka dan sebagainya."
+  },
+  {
+    "id": "95",
+    "istilah": "Hegemoni",
+    "definisi": "Pengaruh atau dominasi sesebuah negara atas negara-negara lain."
+  },
+  {
+    "id": "96",
+    "istilah": "Ideologi",
+    "definisi": "1. Faham (ajaran) yang dipakai atau yang dicita-citakan untuk dasar pemerintahan dll:/n2. Berideologi mempunyai ideologi, ada ideologinya; berideologikan menggunakan sesuatu fahaman sebagai ideologi: sistem politik yang berideologikan nasionalisme.  "
+  },
+  {
+    "id": "97",
+    "istilah": "Indoktrinasi",
+    "definisi": "Perihal atau perbuatan menanamkan sesuatu doktrin (fahaman, ajaran, dan sebagainya) ke dalam fikiran seseorang atau segolongan manusia."
+  },
+  {
+    "id": "98",
+    "istilah": "Modenisme",
+    "definisi": "1. Pemikiran cara moden (baru)/n2. Fahaman dan pendekatan seni yang menekankan seni lukis moden"
+  },
+  {
+    "id": "99",
+    "istilah": "Naturalisme",
+    "definisi": "Aliran atau pandangan dalam seni dan satera yang berusaha untuk menggambarkan sesuatu (manusia, objek dsb) dalam keadaan atau sifatnya yang sebenar."
+  },
+  {
+    "id": "100",
+    "istilah": "Objektif",
+    "definisi": "1. Sesuatu yang khusus yang ingin dicapai, matlamat, tujuan/n2. Berasaskan kenyataan atau fakta sebenar/n3. Tidak dikuasai oleh perasaan atau prasangka sendiri"
+  },
+  {
+    "id": "101",
+    "istilah": "Pensekularan",
+    "definisi": "Proses mengubah nilai-nilai keluhuran keagamaan kepada nilai kehidupan duniawi (proses sekularisasi)"
+  },
+  {
+    "id": "102",
+    "istilah": "Rasionalisme",
+    "definisi": "Fahaman bahawa taakulan adalah asas yang paling baik dalam melakukan sesuatu tindakan, menyelesaikan masalah, dan sebagainya."
+  },
+  {
+    "id": "103",
+    "istilah": "Reformasi",
+    "definisi": "Perubahan atau pembaharuan yang mengarah kepada keadaan yang lebih baik, dalam sistem politik dan kebudayaan sesebuah masyarakat."
+  },
+  {
+    "id": "104",
+    "istilah": "Relativisme",
+    "definisi": "Faham bahawa kebenaran nilai moral dan sebagainya tidak semestinya mutlak tetapi mungkin berbeza antara individu atau kebudayaan"
+  },
+  {
+    "id": "105",
+    "istilah": "Ritual",
+    "definisi": "1. Tatacara keagamaan, adat, dsb/n2. Bukan tatacara dalam keagamaan, adat, dsb"
+  },
+  {
+    "id": "106",
+    "istilah": "Sekularisme",
+    "definisi": "Faham (doktrin, pendirian dsb) yang menolak (memisahkan) nilai-nilai keagamaan daripada kehidupan sosial manusia."
+  },
+  {
+    "id": "107",
+    "istilah": "Subjektif",
+    "definisi": "1. Terbit daripada atau berasaskan pandangan (perasaan dsb) orang atau pihak yang melihat atau menilai (tidak pada ciri-ciri sebenar sesuatu yang dilihat atau dinilai)/n2. Melihat (menilai dll) daripada pandangan (perasaan sendiri), lawan objektif"
+  }
+]
